@@ -1,7 +1,7 @@
 # this-language-does-this
 A comparative table for different languages
 
-❌ - this language is not well-suited for this job
+❌ - this language is not well-suited for this job, but still can do it
 
 🟡 - this language may not be the best option, but still can do it
 

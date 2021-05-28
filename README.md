@@ -1,11 +1,11 @@
 # this-language-does-this
-A comparative table for different languages
+A comparative table for different languages. [Technically your programming language does not matter](https://itnext.io/your-programming-language-does-not-matter-63a7ca4a6094), because of [Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness), but each programming language still has its strengths and weakness defined by how easy and risk-free to do something.
 
-❌ - this language is not well-suited for this job, but still can do it
+❌ - this language is weak in this area
 
-🟡 - this language may not be the best option, but still can do it
+🟡 - this language is acceptable in this area
 
-✅ - this is what this language can do well
+✅ - this language is strong in this area
 
 | Area    | .NET | C++ |
 |---------|------|-----|
